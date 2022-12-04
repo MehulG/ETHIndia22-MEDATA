@@ -1,0 +1,42 @@
+[
+    {
+        "identifier": 0,
+        "valType": "heartbeat",
+        "minVal": 50,
+        "maxVal": 140,
+        "FirstOperation": "MAvg",
+        "SecondOperation": "Min"
+    },
+    {
+        "identifier": 1,
+        "valType": "Step count",
+        "minVal": 500,
+        "maxVal": 14000,
+        "FirstOperation": "MAvg",
+        "SecondOperation": "Min"
+    },
+    {
+        "identifier": 2,
+        "valType": "Calories Burnt",
+        "minVal": 50,
+        "maxVal": 140,
+        "FirstOperation": "MAvg",
+        "SecondOperation": "Min"
+    },
+    {
+        "identifier": 3,
+        "valType": "heartbeat",
+        "minVal": 60,
+        "maxVal": 120,
+        "FirstOperation": "MAvg",
+        "SecondOperation": "Min"
+    },
+    {
+        "identifier": 4,
+        "valType": "heartbeat",
+        "minVal": 70,
+        "maxVal": 130,
+        "FirstOperation": "MAvg",
+        "SecondOperation": "Min"
+    }
+]
